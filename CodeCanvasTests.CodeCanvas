@@ -1,0 +1,55 @@
+{
+	"drawioXML": "<mxfile>\n  <diagram id=\"3IHTWyqsYGimEVP9zR9v\" name=\"Page-1\">\n    <mxGraphModel dx=\"1848\" dy=\"1420\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"0\" arrows=\"1\" fold=\"1\" page=\"0\" pageScale=\"1\" pageWidth=\"850\" pageHeight=\"1100\" math=\"0\" shadow=\"0\">\n      <root>\n        <mxCell id=\"0\" />\n        <mxCell id=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"0\" />\n        <mxCell id=\"TXkINhIF9A4D_MlA_Iyy-21\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" edge=\"1\" parent=\"1\" source=\"TXkINhIF9A4D_MlA_Iyy-15\" target=\"TXkINhIF9A4D_MlA_Iyy-20\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"TXkINhIF9A4D_MlA_Iyy-15\" value=\"Node\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"270\" y=\"50\" width=\"220\" height=\"260\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"TXkINhIF9A4D_MlA_Iyy-17\" value=\"Node\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0\" vertex=\"1\" parent=\"TXkINhIF9A4D_MlA_Iyy-15\">\n          <mxGeometry x=\"50\" y=\"150\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"TXkINhIF9A4D_MlA_Iyy-16\" value=\"Node\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0\" vertex=\"1\" parent=\"TXkINhIF9A4D_MlA_Iyy-15\">\n          <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"TXkINhIF9A4D_MlA_Iyy-19\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=none;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" edge=\"1\" parent=\"1\" source=\"TXkINhIF9A4D_MlA_Iyy-18\" target=\"TXkINhIF9A4D_MlA_Iyy-15\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"210\" y=\"182.981393205\" />\n              <mxPoint x=\"210\" y=\"180\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"TXkINhIF9A4D_MlA_Iyy-18\" value=\"Node\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"50\" y=\"152.981393205\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"TXkINhIF9A4D_MlA_Iyy-20\" value=\"Node\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"590\" y=\"150\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"TXkINhIF9A4D_MlA_Iyy-22\" value=\"Node\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0\" vertex=\"1\" parent=\"1\">\n          <mxGeometry x=\"50\" y=\"52.981393205\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n      </root>\n    </mxGraphModel>\n  </diagram>\n</mxfile>\n",
+	"fileName": "",
+	"fileURL": "",
+	"repoData": {
+		"TXkINhIF9A4D_MlA_Iyy-15": {
+			"path": "TXkINhIF9A4D_MlA_Iyy-15",
+			"cellName": "Node",
+			"cellId": "TXkINhIF9A4D_MlA_Iyy-15",
+			"visible": true
+		},
+		"TXkINhIF9A4D_MlA_Iyy-16": {
+			"path": "TXkINhIF9A4D_MlA_Iyy-16",
+			"cellName": "Node",
+			"cellId": "TXkINhIF9A4D_MlA_Iyy-16",
+			"visible": true
+		},
+		"TXkINhIF9A4D_MlA_Iyy-17": {
+			"path": "TXkINhIF9A4D_MlA_Iyy-17",
+			"cellName": "Node",
+			"cellId": "TXkINhIF9A4D_MlA_Iyy-17",
+			"visible": true
+		},
+		"TXkINhIF9A4D_MlA_Iyy-18": {
+			"path": "TXkINhIF9A4D_MlA_Iyy-18",
+			"cellName": "Node",
+			"cellId": "TXkINhIF9A4D_MlA_Iyy-18",
+			"visible": true
+		},
+		"TXkINhIF9A4D_MlA_Iyy-19": {
+			"path": "TXkINhIF9A4D_MlA_Iyy-19",
+			"cellId": "TXkINhIF9A4D_MlA_Iyy-19",
+			"visible": true
+		},
+		"TXkINhIF9A4D_MlA_Iyy-20": {
+			"path": "TXkINhIF9A4D_MlA_Iyy-20",
+			"cellName": "Node",
+			"cellId": "TXkINhIF9A4D_MlA_Iyy-20",
+			"visible": true
+		},
+		"TXkINhIF9A4D_MlA_Iyy-21": {
+			"path": "TXkINhIF9A4D_MlA_Iyy-21",
+			"cellId": "TXkINhIF9A4D_MlA_Iyy-21",
+			"visible": true
+		},
+		"TXkINhIF9A4D_MlA_Iyy-22": {
+			"path": "TXkINhIF9A4D_MlA_Iyy-22",
+			"cellName": "Node",
+			"cellId": "TXkINhIF9A4D_MlA_Iyy-22",
+			"visible": true
+		}
+	},
+	"simulations": {},
+	"cellToPath": {}
+}
